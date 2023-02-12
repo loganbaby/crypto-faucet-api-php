@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "mahtab2003/faucetpay",
+            "version": "1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mahtab2003/FaucetPay-API.git",
+                "reference": "f76830532112569e5cb36e4c3d7c2351ee7278fe"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mahtab2003/FaucetPay-API/zipball/f76830532112569e5cb36e4c3d7c2351ee7278fe",
+                "reference": "f76830532112569e5cb36e4c3d7c2351ee7278fe",
+                "shasum": ""
+            },
+            "time": "2022-06-02T05:55:34+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Mahtab2003\\FaucetPay\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MPL-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Mahtab Hassan",
+                    "email": "mahtabhassan159@gmail.com"
+                }
+            ],
+            "description": "An API Wrapper to Interact with FaucetPay Account.",
+            "support": {
+                "issues": "https://github.com/mahtab2003/FaucetPay-API/issues",
+                "source": "https://github.com/mahtab2003/FaucetPay-API/tree/1.0"
+            },
+            "install-path": "../mahtab2003/faucetpay"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

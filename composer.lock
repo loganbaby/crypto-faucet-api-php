@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8b8eb2e5fc78aebe4ceb80745261627e",
+    "packages": [
+        {
+            "name": "mahtab2003/faucetpay",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mahtab2003/FaucetPay-API.git",
+                "reference": "f76830532112569e5cb36e4c3d7c2351ee7278fe"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mahtab2003/FaucetPay-API/zipball/f76830532112569e5cb36e4c3d7c2351ee7278fe",
+                "reference": "f76830532112569e5cb36e4c3d7c2351ee7278fe",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Mahtab2003\\FaucetPay\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MPL-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Mahtab Hassan",
+                    "email": "mahtabhassan159@gmail.com"
+                }
+            ],
+            "description": "An API Wrapper to Interact with FaucetPay Account.",
+            "support": {
+                "issues": "https://github.com/mahtab2003/FaucetPay-API/issues",
+                "source": "https://github.com/mahtab2003/FaucetPay-API/tree/1.0"
+            },
+            "time": "2022-06-02T05:55:34+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
